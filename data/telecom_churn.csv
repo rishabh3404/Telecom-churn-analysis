@@ -1,0 +1,21 @@
+customer_id,gender,senior_citizen,tenure_months,contract,monthly_charges,total_charges,payment_method,churn
+C001,Male,0,2,Month-to-month,70.35,140.70,Electronic check,Yes
+C002,Female,0,24,One year,65.20,1564.80,Mailed check,No
+C003,Male,1,5,Month-to-month,89.10,445.50,Electronic check,Yes
+C004,Female,0,36,Two year,55.75,2007.00,Credit card,No
+C005,Male,0,8,Month-to-month,95.40,763.20,Bank transfer,Yes
+C006,Female,1,48,Two year,60.25,2892.00,Credit card,No
+C007,Male,0,12,One year,72.80,873.60,Bank transfer,No
+C008,Female,0,3,Month-to-month,88.50,265.50,Electronic check,Yes
+C009,Male,1,60,Two year,58.90,3534.00,Mailed check,No
+C010,Female,0,18,One year,68.45,1232.10,Credit card,No
+C011,Male,0,4,Month-to-month,91.25,365.00,Electronic check,Yes
+C012,Female,1,30,Two year,62.30,1869.00,Bank transfer,No
+C013,Male,0,7,Month-to-month,85.60,599.20,Mailed check,Yes
+C014,Female,0,42,Two year,57.40,2410.80,Credit card,No
+C015,Male,1,10,Month-to-month,97.80,978.00,Electronic check,Yes
+C016,Female,0,54,Two year,59.75,3226.50,Bank transfer,No
+C017,Male,0,15,One year,74.20,1113.00,Credit card,No
+C018,Female,0,6,Month-to-month,90.15,540.90,Electronic check,Yes
+C019,Male,1,38,One year,66.90,2542.20,Mailed check,No
+C020,Female,0,22,One year,69.35,1525.70,Credit card,No
